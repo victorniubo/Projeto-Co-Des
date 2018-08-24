@@ -1,0 +1,88 @@
+.header{
+	border-style: solid;
+	margin: 10px;
+	margin-right: 250px;
+	margin-left: 250px;
+
+	padding: 10px;
+	color: red;
+}
+
+.header2{
+	border-style: solid;
+	margin: 10px;
+	margin-right: 520px;
+	margin-left: 500px;
+
+	padding: 10px;
+	color: green;
+}
+
+.box1{
+	border-style: solid;
+	margin: 10px;
+	margin-left: 250px;
+	padding: 10px;
+	position: absolute;
+	color: green;
+}
+
+.box2{
+	border-style: solid;
+	margin: 10px;
+	margin-left: 502px;
+	position: absolute;
+	padding: 10px;
+	color: green;
+}
+
+.box3{
+	border-style: solid;
+	margin: 10px;
+	margin-left: 754px;
+	padding: 10px;
+	position: absolute;	
+	color: green;
+}
+
+.box4{
+	border-style: solid;
+	margin: 10px;
+	margin-left: 1008px;
+	padding: 10px;
+	position: absolute;
+	color: green;
+}
+
+
+.boxDetalhe{
+	border-style: solid;
+	margin: 10px;
+	margin-right: 250px;
+	margin-left: 250px;
+
+	padding: 10px;
+	color: green;
+}
+
+
+.boxImgaem{
+	border-style: solid;
+	margin: 10px;
+	margin-right: 250px;
+	margin-left: 250px;
+
+	padding: 10px;
+	color: red;
+}
+
+.ImgDesc{
+	border-style: solid;
+	margin: 10px;
+	margin-right: 700px;
+	margin-left: 250px;
+	position: absolute;
+
+	padding: 10px;
+	color: red;
+}
